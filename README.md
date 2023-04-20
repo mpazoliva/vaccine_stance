@@ -1,2 +1,2 @@
 # vaccine_stance
-We present our participation on the shared task of VaxxStance, where we detected stance about COVID vaccines on Tweets.
+The aim was to detect stance about COVID-19 vaccines (FAVOR, NEUTRAL, AGAINST) in social media, specifically Twitter. We build a base classifier and two different model architectures, some based on Flair library and some others on HuggingFace.
